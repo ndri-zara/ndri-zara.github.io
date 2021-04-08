@@ -95,8 +95,13 @@ img{
 
 table{
 	margin-left: 60px;
+	border-collapse: collapse;
 }
 
+td{
+	height: 200%;
+	width: 50%;
+}
 .footer{
 	display: flex;
 	align-items: center;
